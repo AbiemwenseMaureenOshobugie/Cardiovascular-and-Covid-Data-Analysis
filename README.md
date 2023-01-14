@@ -1,7 +1,6 @@
 # Cardio-and-Covid-Data-Analysis
 Cardio-Covid Analysis
 
-Project: Cardio Analysis
 This project aims to provide insights on cardiovascular health by analyzing three datasets: cardio-alco, cardio-base and covid-data. The analysis is intended to answer 13 research questions related to cardiovascular health, alcohol consumption and covid-19.
 
 ## Datasets
